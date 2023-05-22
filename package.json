@@ -2,10 +2,10 @@
   "name": "todolist",
   "version": "1.0.0",
   "description": "A simple Todolist Webpage in which you can add, delete tasks in your todolist easily. You can also create custom todolist's like Work, Learning etc by simply appending a forward slash '/' and the name of your custom list in the URL e.g https://protected-earth-00038.herokuapp.com/Work .\r The webpage also connected to the Mongodb database.\r You can checkout deployment of the same here : https://protected-earth-00038.herokuapp.com/",
-  "main": "app.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node app.js"
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
